@@ -1,0 +1,14 @@
+body{background-image: -webkit-image-set("https://i.pinimg.com/736x/44/28/6f/44286f72b3aa8bfa19c9fa3f94b2196d.jpg")
+; background-size: cover; background-position: center; background-repeat: no-repeat;
+    background-attachment: fixed; background-color: #f3f4f6;
+    display: flex;
+    flex-direction: column;}
+h1{
+    text-align: center;
+
+    color: #000000;
+    font-size: 50px;
+}
+a {
+   font-size: 25px; /* Add your styles here */
+}
